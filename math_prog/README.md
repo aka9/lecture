@@ -1,4 +1,4 @@
-# Mathematical Programming and algorithm
+# Mathematical Programming and Algorithm
 大学講義の「数理計画とアルゴリズム」の課題. ソースコード.
 
 ## Description
