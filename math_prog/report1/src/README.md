@@ -21,17 +21,17 @@
 ```
 python simultaneous_equations.py
 ```
-![simultaneous_equations.py](https://raw.githubusercontent.com/e155753/lecture/blob/math_prog/math_prog/report1/src/gif/simultaneous_equations.gif)
+![simultaneous_equations.py](https://github.com/e155753/lecture/wiki/images/math_prog/report1/simultaneous_equations.gif)
 
 ```
 python round-robin.py
 ```
-![round-robin.py](https://raw.githubusercontent.com/e155753/lecture/blob/math_prog/math_prog/report1/src/gif/round-robin.gif)
+![round-robin.py](https://github.com/e155753/lecture/wiki/images/math_prog/report1/round-robin.gif)
 
 ```
 python round-robin_fix.py
 ```
-![round-robin_fix.py](https://raw.githubusercontent.com/e155753/lecture/blob/math_prog/math_prog/report1/src/gif/round-robin_fix.gif)
+![round-robin_fix.py](https://github.com/e155753/lecture/wiki/images/math_prog/report1/round-robin_fix.gif)
 
 
 ## Author
